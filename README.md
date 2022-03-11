@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development, Data Science and Machine Learning
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on small games to get me started on the medium
-- 📫 How to reach me ...
+- 📫 Reach me via e-mail: chbasaldua123@gmail.com
 
 <!---
 Christian-Placencia/Christian-Placencia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
