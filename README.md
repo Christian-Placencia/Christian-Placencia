@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Christian-Placencia
 - 👀 I’m interested in Game Development, Data Science and Machine Learning
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on small games to get me started on the medium
+- 🌱 I’m currently studying Game Programming, Animation and Data Intelligence
+- 💞️ I’m looking to collaborate on games
 - 📫 Reach me via e-mail: chbasaldua123@gmail.com
 
 <!---
