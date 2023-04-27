@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Christian-Placencia
 - 👀 I’m interested in Game Development, Data Science and Machine Learning
-- 🌱 I’m currently studying Game Development and Data Intelligence
+- 🌱 I’m currently studying Software Development and Data Intelligence
 - 💞️ I’m looking to collaborate on games
 - 📫 Reach me via e-mail: chbasaldua123@gmail.com
 
